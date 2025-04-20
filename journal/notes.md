@@ -1,6 +1,10 @@
 
 # Notes
 
+## 20Apr2025
+
+Change to Feyman Techinques lite for learning journey. 1 sentence definition (text book), ELI5 (give example and analogy) , identify gap, future research
+
 ## 19Apr2025
 
 Finished reading RDP
