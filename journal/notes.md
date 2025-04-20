@@ -3,7 +3,10 @@
 
 ## 20Apr2025
 
-Change to Feyman Techinques lite for learning journey. 1 sentence definition (text book), ELI5 (give example and analogy) , identify gap, future research
+Familiarized *Windows Internal* on *TryHackMe*: NTFS, ADS, System32, UAC, msconfig.exe, Task Manager, compmgmt
+
+Change to *Feyman Techinques* lite for learning journey. 1 sentence definition (text book), ELI5 (give example and analogy) , identify gap, future research
+
 
 ## 19Apr2025
 
