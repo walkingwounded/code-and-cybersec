@@ -9,3 +9,5 @@ Hands on with *net* command, allowed me to create username and change user passw
 
 ## Further Research and Studies
 A-Z Index of Windows CMD: https://ss64.com/nt/
+
+## set, ver, systeminfo, driverquery, ipconfig
